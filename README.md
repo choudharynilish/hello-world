@@ -1,3 +1,4 @@
 # hello-world
 just a starting project
-abcde
+:_
+i am trying without guide
